@@ -1,1 +1,1 @@
-Basic Socket programming in c, implementing TCP and UDP
+Basic Socket programming in c, implementing TCP and UDP.
